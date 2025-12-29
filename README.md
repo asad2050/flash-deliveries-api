@@ -49,12 +49,12 @@ This backend is designed for **edge performance and scalability**, running on **
 (Coming Soon)
 
 
-🛣️ Roadmap
+## 🛣️ Roadmap
 
-Unified checkout support
+= Unified checkout support
 
-Real payment gateway integration
+= Real payment gateway integration
 
-Push notification hooks
+= Push notification hooks
 
-Advanced analytics endpoints
+= Advanced analytics endpoints
