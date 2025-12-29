@@ -7,9 +7,9 @@ The **Flash Deliveries API** powers a unified **grocery + restaurant delivery pl
 This backend is designed for **edge performance and scalability**, running on **Cloudflare Workers** using **Hono**.
 
 🔗 Related Repositories:
-- Admin Dashboard: https://github.com/<your-username>/flash-deliveries-admin
-- Customer Web App: https://github.com/<your-username>/flash-deliveries-web
-- Customer Mobile App: https://github.com/<your-username>/flash-deliveries-mobile
+- Admin Dashboard: https://github.com/asad2050/flash-deliveries-admin
+- Customer Web App: https://github.com/asad2050/flash-deliveries-web
+- Customer Mobile App: https://github.com/asad2050/flash-deliveries-mobile
 
 ---
 
