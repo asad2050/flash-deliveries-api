@@ -29,8 +29,8 @@ This backend is designed for **edge performance and scalability**, running on **
 - **Database**: Cloudflare D1
 - **ORM**: Drizzle
 - **Validation**: Zod + OpenAPI
-- **Auth**: JWT
-- **Storage (pluggable)**: Cloudinary / Supabase
+- **Auth**: JWT, Firebase Auth (Google Auth)
+- **Storage (pluggable)**: Cloudinary / Supabase / Cloudinary
 - **Email (optional)**: Resend / MailerSend
 
 ---
@@ -48,20 +48,6 @@ This backend is designed for **edge performance and scalability**, running on **
 ## 📸 API Screenshots
 (Coming Soon)
 
-🧪 Local Development
-npm install
-npm run dev
-
-🚀 Deployment (Cloudflare Workers)
-npm run deploy
-
-🔁 Cloudflare Type Generation
-npm run cf-typegen
-
-
-Usage example:
-
-const app = new Hono<{ Bindings: CloudflareBindings }>()
 
 🛣️ Roadmap
 
